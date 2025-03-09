@@ -1,5 +1,5 @@
 # Voice-Enabled Customer Service Chatbot
-
+Readme generated using Claude
 ## Project Overview
 This project implements an intelligent customer service chatbot for a retail platform, capable of handling order inquiries, returns, and policy questions. The system integrates automatic speech recognition (ASR), large language models (LLM), and vector search to create a seamless, conversational user experience.
 
